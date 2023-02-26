@@ -1,3 +1,4 @@
 screen added
 
 battery attached
+software installed
